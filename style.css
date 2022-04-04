@@ -1,0 +1,26 @@
+.item {
+    color: #fff;
+    padding: 10px;
+}
+
+.tipo-produto {
+    margin: 50px;
+    margin-bottom: 0;
+}
+
+.produtos {
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+}
+
+.dados-da-tabela {
+    background-color: #424250;
+}
